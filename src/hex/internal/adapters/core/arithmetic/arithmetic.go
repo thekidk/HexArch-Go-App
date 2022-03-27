@@ -1,5 +1,6 @@
 package arithmetic
 
+
 type Adapter struct {
 
 }
